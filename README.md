@@ -1,1 +1,1 @@
-# streammark-extension
+# Streammark Chrome Extension
