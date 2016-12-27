@@ -1,1 +1,1 @@
-# Streammark Chrome Extension
+# Bookstream Chrome Extension
